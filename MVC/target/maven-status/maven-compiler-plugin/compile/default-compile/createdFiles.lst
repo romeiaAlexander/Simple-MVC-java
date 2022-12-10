@@ -1,0 +1,4 @@
+com\mycompany\mvc\Person.class
+com\mycompany\mvc\PersonController.class
+com\mycompany\mvc\MVC.class
+com\mycompany\mvc\PersonView.class
